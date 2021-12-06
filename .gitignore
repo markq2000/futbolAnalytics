@@ -1,5 +1,5 @@
 # created by virtualenv automatically
 venv/
-secrets.sh
 idea/
 .idea/vcs.xml
+.env
